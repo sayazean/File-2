@@ -1,12 +1,12 @@
 {
-  "name": "Oll2subs",
+  "name": "sayazeanFile-2",
   "description": "BOT Multi Force Subs File Sharing Bot berguna untuk menyimpan file dan dapat diakses melalui link khusus",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/OLLPROJECT/File-Sharing-2-bottom",
+  "repository": "https://github.com/sayazean/File-2",
   "logo": "https://telegra.ph/file/ca011a5e1b5ba4d6c3b1e.jpg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -15,15 +15,15 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "myname_is_oll"
+      "value": "zeannihboss"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
-      "value": "2019435633"
+      "value": "1848018651"
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
-      "value": ""
+      "value": "1848018651"
     },
     "APP_ID": {
       "description": "Dapatkan APP ID di web my.telegram.org",
@@ -41,7 +41,7 @@
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
       "value": "-100"
     },
-    "FORCE_SUB_GROUP": {
+    "FORCE_SUB_CHANNEL": {
       "description": "Masukan ID dari Group Untuk Wajib Subscribenya",
       "value": "-100"
     },
